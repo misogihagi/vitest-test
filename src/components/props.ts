@@ -1,1 +1,1 @@
-export type props={ msg: string } 
+export type props=Partial<{ msg: string }>
